@@ -1,0 +1,17 @@
+﻿  dxgraphics.cpp
+  game.cpp
+D:\SE102.N21-main1\Tiled_Sprite\Tiled_Sprite\game.cpp(16,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\SE102.N21-main1\Tiled_Sprite\Tiled_Sprite\game.cpp(14,13): warning C4101: 's': unreferenced local variable
+D:\SE102.N21-main1\Tiled_Sprite\Tiled_Sprite\game.cpp(15,9): warning C4101: 'n': unreferenced local variable
+D:\SE102.N21-main1\Tiled_Sprite\Tiled_Sprite\game.cpp(163,44): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+D:\SE102.N21-main1\Tiled_Sprite\Tiled_Sprite\game.cpp(163,37): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+D:\SE102.N21-main1\Tiled_Sprite\Tiled_Sprite\game.cpp(163,81): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+D:\SE102.N21-main1\Tiled_Sprite\Tiled_Sprite\game.cpp(163,72): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+D:\SE102.N21-main1\Tiled_Sprite\Tiled_Sprite\game.cpp(163,114): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+D:\SE102.N21-main1\Tiled_Sprite\Tiled_Sprite\game.cpp(163,107): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+D:\SE102.N21-main1\Tiled_Sprite\Tiled_Sprite\game.cpp(163,147): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+D:\SE102.N21-main1\Tiled_Sprite\Tiled_Sprite\game.cpp(163,139): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+D:\SE102.N21-main1\Tiled_Sprite\Tiled_Sprite\game.cpp(220,9): warning C4101: 'n': unreferenced local variable
+  WinMain.cpp
+  Generating Code...
+  Tiled_Sprite.vcxproj -> D:\SE102.N21-main1\Tiled_Sprite\Debug\Tiled_Sprite.exe

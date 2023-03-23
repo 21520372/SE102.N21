@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tiled_Sprite", "Tiled_Sprite\Tiled_Sprite.vcxproj", "{ED65DF05-2F4F-4183-99A5-BE479A68BA09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED65DF05-2F4F-4183-99A5-BE479A68BA09}.Debug|x64.ActiveCfg = Debug|x64
+		{ED65DF05-2F4F-4183-99A5-BE479A68BA09}.Debug|x64.Build.0 = Debug|x64
+		{ED65DF05-2F4F-4183-99A5-BE479A68BA09}.Debug|x86.ActiveCfg = Debug|Win32
+		{ED65DF05-2F4F-4183-99A5-BE479A68BA09}.Debug|x86.Build.0 = Debug|Win32
+		{ED65DF05-2F4F-4183-99A5-BE479A68BA09}.Release|x64.ActiveCfg = Release|x64
+		{ED65DF05-2F4F-4183-99A5-BE479A68BA09}.Release|x64.Build.0 = Release|x64
+		{ED65DF05-2F4F-4183-99A5-BE479A68BA09}.Release|x86.ActiveCfg = Release|Win32
+		{ED65DF05-2F4F-4183-99A5-BE479A68BA09}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FBD6BFF-676A-49B5-AEE6-6727AF7ADBD6}
+	EndGlobalSection
+EndGlobal
